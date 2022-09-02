@@ -5,7 +5,7 @@ Challenge_RoboltisaSA
 
 ![Capture](ScreenShoots/AppCapture.png)
 
-# Infomations and contact
+# Infomation and contact
 Author: Jimmy Palomino
 
 email: jimmy.palomino@yahoo.com, jimspalo@espol.edu.ec
