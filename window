@@ -2,18 +2,13 @@
 # email: jimmy.palomino@yahoo.com, jimspalo@espol.edu.ec
 # linkedIn: https://www.linkedin.com/in/jimmypalomino/
 
-import imp
-from socket import timeout
-from sqlite3 import connect
-from PyQt5 import QtWidgets, QtCore, QtGui
-from PyQt5.QtWidgets import QApplication, QMainWindow, QMenu
-from PyQt5.QtCore import QEvent, Qt
+from PyQt5 import QtWidgets, QtCore
+from PyQt5.QtWidgets import QMainWindow, QMenu
+from PyQt5.QtCore import QEvent
 import sys
 import requests
 import random
 from PyQt5.QtCore import QTimer, QTime, QDate
-
-from popupwindow import Ui_MainWindow
 
 
 class MainWindow(QMainWindow):
